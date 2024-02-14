@@ -1,0 +1,18 @@
+    #css {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 80vh; /* Adjust as needed */
+    }
+    #css {
+        width: 60%; /* Adjust as needed */
+        height: 60%; /* Adjust as needed */
+    }
+    #url-display {
+        margin-top: 20px;
+        display: none;
+    }
+    #image-display {
+        margin-top: 20px;
+        display: none;
+    }
